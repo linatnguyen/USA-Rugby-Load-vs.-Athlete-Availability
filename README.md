@@ -20,3 +20,11 @@ Data is provided by USA Rugby Women's 7s, and includes athlete availability, dai
   3. Important load features are sport specific - in this case, field sports generally take running load into account
   4. Data is only collected from the 2021-2022 season
   
+ # Models Tested
+  * Support Vector Regressor
+  * Random Forest Regressor
+  * Gradient Boosting Regressor
+  * Decision Tree Regressor
+  * Linear Regression
+
+
